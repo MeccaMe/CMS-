@@ -1,4 +1,3 @@
-# CMS-
 # Github 问题集（1）
 ### 1.github是什么：
     Github是一个IT技术人员的社交网站
